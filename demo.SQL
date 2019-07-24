@@ -4,3 +4,4 @@ FROM table_name
 
 
 this is the testing
+SELECT employee from company 
